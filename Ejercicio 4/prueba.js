@@ -1,13 +1,19 @@
-let color = prompt("Digite el color del semaforo");
+let saludar = prompt("Digite un Hola");
 
-if (color == "rojo") {
-  alert("ALTO");
-} else if (color == "amarillo") {
-  alert("PRECAUCION");
-} else if (color == "verde") {
-  alert("SIGA");
-} else {
+if (saludar == "Hola") {
+  alert("Hola,buen dia");
+} else if (saludar == "hola") {
+  alert("hola,buen dia");
+} else if (saludar == "HOLA") {
+  alert("HOLA,buen dia");
+} else if (saludar == "ola") {
+  alert("ola,buen dia");
+}  else if (saludar == "hi") {
+  alert("hi,buen dia");
+}  else if (saludar == "hello") {
+  alert("hello,buen dia");
+}  else {
   alert(
-    "NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA VERDE, AMARILLO, ROJO"
+    "NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y DIGITE UN HOLA"
   );
 }
