@@ -1,4 +1,4 @@
-let notas = prompt("¿Cuál es tu edad?");
+let notas = prompt("¿Cuál es tu nota?");
 
 
 // @ts-ignore
