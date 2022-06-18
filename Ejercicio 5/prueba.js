@@ -1,3 +1,4 @@
+// @ts-ignore
 let saludar = prompt("Digite un buenos dias,buenas tardes o buenas noches");
 
 if (saludar == "buenos dias") {

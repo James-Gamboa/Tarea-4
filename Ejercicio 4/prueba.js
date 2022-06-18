@@ -1,3 +1,4 @@
+// @ts-ignore
 let saludar = prompt("Digite un Hola");
 
 if (saludar == "Hola") {
