@@ -20,15 +20,33 @@ if (pais == "costa rica"){
 }  else if (pais == "méxico"){
   alert("Este es un pais America")
 }  else if (pais == "españa"){
-  alert("Este es un pais europa")
+  alert("Este es un pais Europa")
 }   else if (pais == "italia"){
-  alert("Este es un pais europa")
+  alert("Este es un pais Europa")
 }   else if (pais == "francia"){
-  alert("Este es un pais europa")
+  alert("Este es un pais Europa")
 }   else if (pais == "rumania"){
-  alert("Este es un pais europa")
+  alert("Este es un pais Europa")
 }   else if (pais == "inglaterra"){
-  alert("Este es un pais europa")
+  alert("Este es un pais Europa")
 }   else if (pais == "alemania"){
-  alert("Este es un pais europa")
+  alert("Este es un pais Europa")
+}  else if (pais == "nigeria"){
+  alert("Este es un pais África:")
+} else if (pais == "kenia"){
+  alert("Este es un pais África:")
+} else if (pais == "ghana"){
+  alert("Este es un pais África:")
+} else if (pais == "marruecos"){
+  alert("Este es un pais África:")
+} else if (pais == "senegal"){
+  alert("Este es un pais África:")
+} else if (pais == "nueva zelanda"){
+  alert("Este es un pais Oceanía")
+} else if (pais == "australia"){
+  alert("Este es un pais Oceanía")
+} else if (pais == "fiyi"){
+  alert("Este es un pais Oceanía")
+} else if (pais == "tonga"){
+  alert("Este es un pais Oceanía")
 } 
