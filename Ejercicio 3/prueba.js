@@ -32,15 +32,15 @@ if (pais == "costa rica"){
 }   else if (pais == "alemania"){
   alert("Este es un pais Europa")
 }  else if (pais == "nigeria"){
-  alert("Este es un pais África:")
+  alert("Este es un pais África")
 } else if (pais == "kenia"){
-  alert("Este es un pais África:")
+  alert("Este es un pais África")
 } else if (pais == "ghana"){
-  alert("Este es un pais África:")
+  alert("Este es un pais África")
 } else if (pais == "marruecos"){
-  alert("Este es un pais África:")
+  alert("Este es un pais África")
 } else if (pais == "senegal"){
-  alert("Este es un pais África:")
+  alert("Este es un pais África")
 } else if (pais == "nueva zelanda"){
   alert("Este es un pais Oceanía")
 } else if (pais == "australia"){
@@ -49,4 +49,6 @@ if (pais == "costa rica"){
   alert("Este es un pais Oceanía")
 } else if (pais == "tonga"){
   alert("Este es un pais Oceanía")
+}else {
+  ("NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA SU PAÍS")
 } 
