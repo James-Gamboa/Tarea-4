@@ -7,7 +7,5 @@ if (color == "rojo") {
 } else if (color == "verde") {
   alert("SIGA");
 } else {
-  alert(
-    "NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA VERDE, AMARILLO, ROJO"
-  );
+  alert("NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA VERDE, AMARILLO, ROJO");
 }
