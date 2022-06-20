@@ -8,7 +8,5 @@ if (saludar == "buenos dias") {
 } else if (saludar == "buenas noches") {
   alert("buenas noches");
 } else {
-  alert(
-    "NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA BUENOS DIAS, BUENAS TARDES, BUENAS NOCHES"
-  );
+  alert("NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA BUENOS DIAS, BUENAS TARDES, BUENAS NOCHES");
 }

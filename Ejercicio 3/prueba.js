@@ -49,6 +49,5 @@ if (pais == "costa rica"){
   alert("Este es un pais Oceanía")
 } else if (pais == "tonga"){
   alert("Este es un pais Oceanía")
-}else {
-  ("NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA SU PAÍS")
+}else {("NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA SU PAÍS");
 } 

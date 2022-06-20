@@ -53,5 +53,5 @@ if (pais == "costa rica"){
 } else if (pais == "tonga"){
   alert("Este es un pais que no ha ganado un mundial")
 }else {
-  ("NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA SU PAÍS")
+  ("NO SE INGRESO LOS VALORES CORRECTO, POR FAVOR RECARGUE LA PAGINA Y ESCRIBA SU PAÍS");
 }
