@@ -3,7 +3,7 @@
 let operacion = prompt("¿Qué operación desea? 1-Sumar 2-Restar 3-Multiplicar 4-Dividir.");
 let operando1 ;
 let operando2 ;
-let resultado;
+let resultado ;
 
 //Impedir que pida los operandos en caso error
 if(operacion >= 1 && operacion <=4){
